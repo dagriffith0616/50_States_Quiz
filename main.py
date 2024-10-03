@@ -35,4 +35,4 @@ while count < 50:
     else:
         pass
 
-t.mainloop()
+screen.exitonclick()
